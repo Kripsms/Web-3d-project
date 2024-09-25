@@ -47,11 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        We are a team of three passionate web developers, 
+        currently training under Nexforce, specializing in creating dynamic 
+        and responsive websites using HTML, CSS, and JavaScript. 
+        Our expertise includes building clean, user-friendly interfaces and 
+        ensuring cross-device compatibility. With a collaborative spirit, 
+        we also have foundational skills in version control (Git), problem-solving, 
+        and front-end optimization, continually pushing our abilities to deliver modern web experiences.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
